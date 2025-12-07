@@ -1,0 +1,36 @@
+# CDK# CDK
+infrastructure/node_modules/
+infrastructure/cdk.out/
+infrastructure/*.jscdk/*.js
+infrastructure/*.tscdk/*.d.ts
+# Python# Python
+__pycache__/__pycache__/
+*.cod]*.py[cod]
+*$class*$py.class
+*.so*.so
+.Python.Python
+env/
+venv/
+*.env*.env
+# files# Data files
+data/raw/*
+data/processed/*
+!gitkeep!data/.gitkeep
+!gitkeep!data/raw/.gitkeep
+!gitkeep!data/processed/.gitkeep
+*.csv*.csv
+*.json*.json
+*.parquet*.parquet
+# IDE# IDE
+.vscode/.vscode/
+.idea/.idea/
+*.swp*.swp
+*.swo*.swo
+*~*~
+# OS# OS
+.Store.DS_Store
+Thumbs.dbThumbs.db
+# AWS# AWS
+.aws/.aws/
+# Logs# Logs
+*.log*.log
