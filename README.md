@@ -63,3 +63,7 @@ Open:
 sql/analytics-queries.sql
 
 Run the queries in Metabase to generate visualizations.
+
+
+## REPORT 
+📄 [View Metabase Report on Covid-19 Analytics (PDF)](Metabase.pdf)
